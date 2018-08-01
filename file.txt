@@ -1,1 +1,2 @@
-This is a newly created file called file2
+Today we are doing GIT session at DCT academy.
+This is our 41st class.
