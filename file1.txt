@@ -1,1 +1,3 @@
 This is new file.
+
+Learning the basic git commands.
